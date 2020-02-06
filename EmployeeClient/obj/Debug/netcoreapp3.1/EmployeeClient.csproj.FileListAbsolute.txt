@@ -1,0 +1,17 @@
+C:\Projects\Employee\EmployeeClient\bin\Debug\netcoreapp3.1\EmployeeClient.exe
+C:\Projects\Employee\EmployeeClient\bin\Debug\netcoreapp3.1\EmployeeClient.deps.json
+C:\Projects\Employee\EmployeeClient\bin\Debug\netcoreapp3.1\EmployeeClient.runtimeconfig.json
+C:\Projects\Employee\EmployeeClient\bin\Debug\netcoreapp3.1\EmployeeClient.runtimeconfig.dev.json
+C:\Projects\Employee\EmployeeClient\bin\Debug\netcoreapp3.1\EmployeeClient.dll
+C:\Projects\Employee\EmployeeClient\bin\Debug\netcoreapp3.1\EmployeeClient.pdb
+C:\Projects\Employee\EmployeeClient\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+C:\Projects\Employee\EmployeeClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Employee\EmployeeClient\bin\Debug\netcoreapp3.1\Owin.dll
+C:\Projects\Employee\EmployeeClient\bin\Debug\netcoreapp3.1\EmployeeBusiness.dll
+C:\Projects\Employee\EmployeeClient\bin\Debug\netcoreapp3.1\EmployeeBusiness.pdb
+C:\Projects\Employee\EmployeeClient\obj\Debug\netcoreapp3.1\EmployeeClient.csprojAssemblyReference.cache
+C:\Projects\Employee\EmployeeClient\obj\Debug\netcoreapp3.1\EmployeeClient.AssemblyInfoInputs.cache
+C:\Projects\Employee\EmployeeClient\obj\Debug\netcoreapp3.1\EmployeeClient.AssemblyInfo.cs
+C:\Projects\Employee\EmployeeClient\obj\Debug\netcoreapp3.1\EmployeeClient.csproj.CopyComplete
+C:\Projects\Employee\EmployeeClient\obj\Debug\netcoreapp3.1\EmployeeClient.dll
+C:\Projects\Employee\EmployeeClient\obj\Debug\netcoreapp3.1\EmployeeClient.pdb

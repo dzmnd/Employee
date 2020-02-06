@@ -1,0 +1,16 @@
+C:\Projects\Employee\Employee\Employee\bin\Debug\netstandard2.0\Employee.deps.json
+C:\Projects\Employee\Employee\Employee\bin\Debug\netstandard2.0\Employee.dll
+C:\Projects\Employee\Employee\Employee\bin\Debug\netstandard2.0\Employee.pdb
+C:\Projects\Employee\Employee\Employee\obj\Debug\netstandard2.0\Employee.AssemblyInfoInputs.cache
+C:\Projects\Employee\Employee\Employee\obj\Debug\netstandard2.0\Employee.AssemblyInfo.cs
+C:\Projects\Employee\Employee\Employee\obj\Debug\netstandard2.0\Employee.dll
+C:\Projects\Employee\Employee\Employee\obj\Debug\netstandard2.0\Employee.pdb
+C:\Projects\Employee\Employee\Employee\obj\Debug\netstandard2.0\Employee.csprojAssemblyReference.cache
+C:\Projects\Employee\Employee\bin\Debug\netstandard2.0\Employee.deps.json
+C:\Projects\Employee\Employee\bin\Debug\netstandard2.0\Employee.dll
+C:\Projects\Employee\Employee\bin\Debug\netstandard2.0\Employee.pdb
+C:\Projects\Employee\Employee\obj\Debug\netstandard2.0\Employee.AssemblyInfoInputs.cache
+C:\Projects\Employee\Employee\obj\Debug\netstandard2.0\Employee.AssemblyInfo.cs
+C:\Projects\Employee\Employee\obj\Debug\netstandard2.0\Employee.dll
+C:\Projects\Employee\Employee\obj\Debug\netstandard2.0\Employee.pdb
+C:\Projects\Employee\Employee\obj\Debug\netstandard2.0\Employee.csprojAssemblyReference.cache
